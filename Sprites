@@ -1,0 +1,39 @@
+Background
+black darkbrown darkgreen darkblue
+03303
+00210
+32000
+31203
+00330
+
+Target
+blue lightblue white
+..0..
+.010.
+01210
+.010.
+..0..
+
+Wall
+gray darkgray lightgray
+01110
+11002
+02020
+20101
+12011
+
+Player
+yellow darkgray lightbrown
+.000.
+.101.
+00000
+.222.
+.2.2.
+
+Crate
+brown darkbrown lightbrown
+11111
+10201
+12021
+10201
+11111
